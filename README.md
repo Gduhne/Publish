@@ -1,2 +1,2 @@
-# Publishit
+# Publish
 To publish this
